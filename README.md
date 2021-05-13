@@ -18,7 +18,7 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 * SVG icons
 * SEO friendly
 
-
+texttexttext
 ### Quick-start guide
 1. [Fork](https://github.com/gdg-x/zeppelin/fork) this repo
 2. Clone locally
