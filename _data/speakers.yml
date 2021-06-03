@@ -30,27 +30,20 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Dan"
+  surname: "Bradley"
+  bio: "Professor Dan Bradley is Head of School at the School of Genetics and Microbiology in Trinity College Dublin. His research interests include detection of signatures of selection in human, bovine, salmon and chicken genomes, Irish human population structure, Y chromosome diversity and Irish medeival genealogies, ancient DNA, origins of livestock as discerned using genetic diversity, genetic basis of disease resistance in West African cattle, haplotype decay and the age of cattle hybrid zones, and detection of recombination in mitochondrial genomes."
+  thumbnailUrl: DanBradley.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Niamh"
+  surname: "Mullins"
+  bio: "Dr. Niamh Mullins is Associate Professor at the Icahn School of Medicine, Mount Sinai. Her research interests lie in psychiatric genetics, including the psychiatric basis of bipolar disorder, depression, and schizophrenia. She graduated with a PhD from King's College London in 2017 and is now leading X, the world's largest bipolar study."
+  thumbnailUrl: NiamhMullins.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
