@@ -50,7 +50,7 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-
+-
   id: 7
   name: "Orla"
   surname: "O'Sullivan"
@@ -69,7 +69,7 @@ metabolites and investigate their implications for human health."
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-    
+ -  
      id: 8
   name: "Clare"
   surname: "West"
