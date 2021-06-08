@@ -52,15 +52,30 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Orla"
+  surname: "O'Sullivan"
+  bio: "The human intestinal tract is host to an extensive population of microorganisms working in
+concert to play a pivotal role in human health. Almost every aspect of modern lifestyles can
+impact the gut microbiota; recently diet and fitness have been established as important
+modulators. Previously, we observed that elite athletes have significantly increased gut
+microbial diversity compared to non-athlete controls. Functional metagenomic analysis
+revealed this elevated diversity translated into the athletes’ microbiome being primed for
+energy harvest as well as muscle and tissue repair. However, a subsequent 8-week exercise
+intervention study failed to reproduce the same high microbial diversity. This lead us to
+hypothesize that it’s physical fitness, not exercise, that is pivotal to increased microbial
+diversity. We propose to mine datasets to identify “fitness” associated microbes and
+metabolites and investigate their implications for human health."
+  thumbnailUrl: orlaosullivan.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    
+     id: 8
+  name: "Clare"
+  surname: "West"
+  bio: "Clare West is a computational biologist with experience in structural biology and drug discovery. Her postdoctoral research aimed to harness publicly available data to identify and prioritise tractable drug targets within the mechanisms linking ageing and age-related diseases, in collaboration with UK SPINE, the Centre for Medicines Discovery (CMD) at the University of Oxford, and Open Targets at EMBL-EBI. She has a BSc in Biochemistry (University of Nottingham) and a PhD in Protein Informatics (Department of Statistics, University of Oxford) focussing on template-free protein structure prediction."
+  thumbnailUrl: clarewest.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  
