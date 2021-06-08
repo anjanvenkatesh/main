@@ -1,5 +1,5 @@
-
-  id: 3
+-
+  id: 1
   name: "Philippe"
   surname: "Lemey"
   company: "K.U. Leuven"
@@ -10,7 +10,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/lemeylab"}
 - 
-  id: 4
+  id: 2
   name: "Gary"
   surname: "Hardiman"
   company: "Queens University Belfast"
@@ -29,7 +29,7 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
     - {name: "twitter", link: "twitter.com/ghardiman"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 5
+  id: 3
   name: "Dan"
   surname: "Bradley"
   bio: "Professor Dan Bradley is Head of School at the School of Genetics and Microbiology in Trinity College Dublin. His research interests include detection of signatures of selection in human, bovine, salmon and chicken genomes, Irish human population structure, Y chromosome diversity and Irish medeival genealogies, ancient DNA, origins of livestock as discerned using genetic diversity, genetic basis of disease resistance in West African cattle, haplotype decay and the age of cattle hybrid zones, and detection of recombination in mitochondrial genomes."
@@ -39,7 +39,7 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
-  id: 6
+  id: 4
   name: "Niamh"
   surname: "Mullins"
   bio: "Dr. Niamh Mullins is Associate Professor at the Icahn School of Medicine, Mount Sinai. Her research interests lie in psychiatric genetics, including the psychiatric basis of bipolar disorder, depression, and schizophrenia. She graduated with a PhD from King's College London in 2017 and is now leading X, the world's largest bipolar study."
@@ -51,7 +51,7 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 -
-  id: 7
+  id: 5
   name: "Orla"
   surname: "O'Sullivan"
   bio: "The human intestinal tract is host to an extensive population of microorganisms working in
@@ -70,7 +70,7 @@ metabolites and investigate their implications for human health."
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
  -  
-     id: 8
+     id: 6
   name: "Clare"
   surname: "West"
   bio: "Clare West is a computational biologist with experience in structural biology and drug discovery. Her postdoctoral research aimed to harness publicly available data to identify and prioritise tractable drug targets within the mechanisms linking ageing and age-related diseases, in collaboration with UK SPINE, the Centre for Medicines Discovery (CMD) at the University of Oxford, and Open Targets at EMBL-EBI. She has a BSc in Biochemistry (University of Nottingham) and a PhD in Protein Informatics (Department of Statistics, University of Oxford) focussing on template-free protein structure prediction."
